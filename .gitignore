@@ -1,0 +1,13 @@
+# Gitignore for NanoShellSW
+doomnanoshell/*
+nesemu/*
+aclock/build/*
+clock/build/*
+calc/build/*
+nanomod/*
+oregon/build/*
+version/build/*
+listtest/build/*
+learn/build/*
+helloworld/build/*
+hellowindow/build/*
